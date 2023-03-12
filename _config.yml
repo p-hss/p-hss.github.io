@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Philipp's site"
 title_separator          : "-"
-name                     : &name "Philipp's site"
-description              : &description "personal description"
+name                     : &name "Philipp Hess"
+description              : &description "description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "p-hss/p-hss.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Philipp Hess"
-  avatar           : "images/Potrait.jpg"
+  avatar           : "Potrait.jpg"
   bio              : "Hi there. My bio.."
   location         : "Berlin"
   employer         :
