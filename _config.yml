@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "philipp' site"
+title                    : "philipp's site"
 title_separator          : "-"
 name                     : &name "Philipp Hess"
 description              : &description "description"
