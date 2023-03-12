@@ -10,3 +10,9 @@ redirect_from:
 
 Hi. I'm Philipp. 
 
+I've studied at...
+
+My research interestest are:
+
+- something
+- something else
