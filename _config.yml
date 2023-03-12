@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Philipp's site"
+title                    : "philipp-hess.de"
 title_separator          : "-"
 name                     : &name "Philipp Hess"
 description              : &description "description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Philipp Hess"
   avatar           : "Potrait.jpg"
-  bio              : "Hi there. My bio.."
-  location         : "Berlin"
+  bio              : "My bio.."
+  location         : "Berlin, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=HIb5K_QAAAAJ"
