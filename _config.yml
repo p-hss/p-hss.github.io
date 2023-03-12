@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "philipp's site"
+title                    : "philipp-hess.de"
 title_separator          : "-"
 name                     : &name "Philipp Hess"
 description              : &description "description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Philipp Hess"
   avatar           : "Potrait.jpg"
-  bio              : "My bio.."
+  bio              : "About me.."
   location         : "Berlin, Germany"
   employer         :
   pubmed           : 
