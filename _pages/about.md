@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Deep learning for Earth system modelling"
 excerpt: "Welcome"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I'm Philipp. 
+Hi, I'm Philipp. 
 
-I've studied at...
-
-My research interestest are:
-
-- something
-- something else
+I am a doctoral researcher at Technical University Munich and the Postdam Institute for Climate Impact Research. I work at the intersection of deep learning and Earth system modelling to develope novel methods that combine the strengths of both data-driven and knowledge-based modelling approaches. 
