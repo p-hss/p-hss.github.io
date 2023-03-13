@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-Hi, I'm Philipp. 
+Hi.
 
-I am a doctoral researcher at Technical University Munich and the Postdam Institute for Climate Impact Research. I work at the intersection of deep learning and Earth system modelling to develope novel methods that combine the strengths of both data-driven and knowledge-based modelling approaches. 
+I'm Philipp. I'm a doctoral researcher at Technical University Munich and the Postdam Institute for Climate Impact Research. I work at the intersection of deep learning and Earth system modelling to develope novel methods that combine the strengths of both data-driven and knowledge-based modelling approaches. 
