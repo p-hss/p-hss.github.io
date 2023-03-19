@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 **Education**
 
 - M.Sc. Physics, Department of Physics, Technical University of Berlin, Berlin, Germany, 2016 - 2019  
