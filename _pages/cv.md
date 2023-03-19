@@ -1,4 +1,4 @@
----
+P---
 layout: archive
 title: "Curriculum vitae"
 permalink: /cv/
@@ -9,51 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**Education**
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- M.Sc. Physics, Department of Physics, Technical University of Berlin, Berlin, Germany, 2016 - 2019  
+  Thesis: *Statistical properties of advected line elements in incompressible MHD turbulence*  
+  Plasma Astrophysics group, supervisor: Dr W.-C. Müller  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Student exchange, Waseda University, Tokyo, Japan, 2014 - 2015   
+  with a DAAD scholarship  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- B.Sc. Physics, Department of Physics and Earth Sciences, Leipzig University, Leipzig, Germany, 2012 - 2016  
+  Thesis: *Monte Carlo simulation of the surface tension in the 2D Ising model*  
+  Computational Quantum Field Theory group, supervisor: Dr W. Janke  
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Research**
+
+- Doctoral researcher, School of Engineering and Design Berlin, Technical University of Munich, 2021 - now   
+  PhD thesis: *Prediction of extreme precipitation events: combining process-based with machine learning models*  
+  Earth System Modelling group, supervisor: Dr N. Boers  
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Doctoral researcher, FutureLab: Artificial Intelligence in the Anthropocene, Potsdam Institute for Climate Impact Research,  
+  Potddam, Germany, 2020 - now
+  
+- Doctoral researcher, Department of Mathematics and Computer Science,Free University of Berlin, Germany, 2020 - 2021
+ 
+- Guest researcher, Department of Energy Sciences, Tokyo Institute of Technology, Tokyo, Japan, 2017 - 2018  
+  Supervisor: Dr F. Xiao
+  
+**Teaching**
+
+- Technical University of Munich: *Machine learning in Earth system modelling*, winter term 2022
+- Technical University of Munich: *Machine learning in Earth system modelling*, summer term 2021
+- Supervision: one master's student, one bachelor's student, and one internship
+
+**Experience**
+
+- Working student, Data Science, Greenstone Energy, Berlin, Gemerany, 2018 - 2019
