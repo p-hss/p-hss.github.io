@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Deep learning for Earth system modelling"
+title: ""
 excerpt: "Welcome"
 author_profile: true
 redirect_from: 
