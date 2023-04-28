@@ -11,8 +11,7 @@ redirect_from:
 
 Hi.  
 
-I'm Philipp, a doctoral researcher at Technical University Munich and the Potsdam Institute for Climate Impact Research. I work at the intersection of deep learning and Earth system modelling to develop new methods that combine the strengths of data-driven machine learning and physics-based models. 
-
+I'm Philipp, a doctoral researcher at the Potsdam Institute for Climate Impact Research and Technical University Munich. 
 Research topics that I am particularly excited about are:
 
 - __Generative modelling__ of geophysical fields using deep learning for image synthesis and translation. Generative models lend themselves naturally to various tasks in Earth system modelling such as bias correction and downscaling of numerical simulations but also for purely data-driven probabilistic forecasts.
