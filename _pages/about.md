@@ -16,7 +16,7 @@ Research topics that I am particularly excited about are:
 
 - __Generative modelling__ of geophysical fields using deep learning for image synthesis and translation. Generative models lend themselves naturally to various tasks in Earth system modelling such as bias correction and downscaling of numerical simulations but also for purely data-driven probabilistic forecasts.
 
-- __Predicting extremes__, such as extreme rainfall events, accurately is important in both the climate modelling and weather forecasting context. To make ML models learn to predict rare extreme events, the sparse training data needs to be utilized effectively. This includes developing suitable loss functions, data representation and sampling strategies for training as well as evaluation criteria.
+- __Predicting extremes__, such as extreme rainfall events, accurately in the climate modelling and weather forecasting context. To make ML models learn to predict rare extreme events, the sparse training data needs to be utilized effectively. This includes developing suitable loss functions, data representation and sampling strategies for training as well as evaluation criteria.
 
 - __Hybrid models__ that combine differential equations (i.e. knowledge-based models) with machine learning algrorithms (data-driven models). To effectively combine these two approaches *online learning* methods need to be developed that allow to train the ML algorithm while interacting with the rest of the model, e.g., by making the entire hybrid model accessible (differentiable) for gradient-based optimzation. 
 
