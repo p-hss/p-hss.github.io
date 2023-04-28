@@ -27,8 +27,7 @@ redirect_from:
   PhD thesis: *Prediction of extreme precipitation events: combining process-based with machine learning models*  
   Earth System Modelling group, supervisor: Prof. Dr N. Boers  
   
-- Doctoral researcher, FutureLab: Artificial Intelligence in the Anthropocene, __Potsdam Institute for Climate Impact Research__,  
-  Potsdam, Germany, 2020 - now
+- Doctoral researcher, FutureLab: Artificial Intelligence in the Anthropocene, __Potsdam Institute for Climate Impact Research__, Potsdam, Germany, 2020 - now
   
 - Doctoral researcher, Department of Mathematics and Computer Science, __Free University of Berlin__, Berlin, Germany, 2020 - 2021
  
