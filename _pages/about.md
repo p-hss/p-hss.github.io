@@ -22,6 +22,6 @@ Research topics that I am particularly excited about are:
 
 - __Interpretable AI__ methods for making deep neural networks more transparent. Especially for high-stakes predictions of extreme events, it is important to infer how the black-box models such as neural networks arrive at their forecast. 
 
-- __Generalization under distribution shifts__ of machine leanring models. When modelling climate phenomena and many other real-world problems the data distribution which was seen during training might undergo shifts which leads to out-of-sample predictions. Ensuring that the ML model does not violate first principles, e.g., such as physical conservation laws, is a crucial and challenging problem.
+- __Generalization under distribution shifts__ of machine learning models. When modelling climate phenomena and many other real-world problems the data distribution which was seen during training might undergo shifts which leads to out-of-sample predictions. Ensuring that the ML model does not violate first principles, e.g., such as physical conservation laws, is a crucial and challenging problem.
 
 
