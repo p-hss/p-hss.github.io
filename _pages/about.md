@@ -11,17 +11,17 @@ redirect_from:
 
 Hi.  
 
-I'm Philipp, a doctoral researcher at the Potsdam Institute for Climate Impact Research and Technical University Munich. 
+I'm Philipp, a postdoctoral researcher at the Technical University Munich and the Potsdam Institute for Climate Impact Research. 
 Research topics that I am particularly excited about are:
 
-- __Generative modelling__ of geophysical fields using deep learning for image synthesis and translation. Generative models lend themselves naturally to various tasks in Earth system modelling such as bias correction and downscaling of numerical simulations but also for purely data-driven probabilistic forecasts.
+- __Generative machine learning__ for bias correction and downscaling of Earth system simulations. I am interested in how generative machine learning for classical image-processing tasks such as inpainting, super-resolution and image-to-image translation can be extended and applied to similar problems in climate science.
 
-- __Predicting extremes__, such as extreme rainfall events, accurately in the climate modelling and weather forecasting context. To make ML models learn to predict rare extreme events, the sparse training data needs to be utilized effectively. This includes developing suitable loss functions, data representation and sampling strategies for training as well as evaluation criteria.
+- __Predicting extreme events__, such as rainfall extremes, accurately in the context of climate modelling and weather forecasting. The training data should be utilized effectively to make ML models learn to predict rare extreme events. This includes developing suitable loss functions, data transformations, and sampling strategies.
 
-- __Hybrid models__ that combine differential equations (i.e. knowledge-based models) with machine learning algrorithms (data-driven models). To effectively combine these two approaches *online learning* methods need to be developed that allow to train the ML algorithm while interacting with the rest of the model, e.g., by making the entire hybrid model accessible (differentiable) for gradient-based optimzation. 
+- __Hybrid models__ that combine differential equations (i.e., knowledge-based models) with machine learning algorithms (data-driven models). To effectively combine these two approaches, *online learning* methods need to be developed that allow training the ML algorithm while interacting with the rest of the model, e.g., by making the entire hybrid model accessible (differentiable) for gradient-based optimization. 
 
-- __Interpretable AI__ methods for making deep neural networks more transparent. Especially for high-stakes predictions of extreme events, it is important to infer how the black-box models such as neural networks arrive at their forecast. 
+- __Interpretable AI__ methods for making deep neural networks more transparent. Especially for high-stakes predictions of extreme events, it is important to infer how the black-box models, such as neural networks, arrive at their forecast. 
 
-- __Generalization under distribution shifts__ of machine learning models. When modelling climate phenomena and many other real-world problems the data distribution which was seen during training might undergo shifts which leads to out-of-sample predictions. Ensuring that the ML model does not violate first principles, e.g., such as physical conservation laws, is a crucial and challenging problem.
+- __Generalization under distribution shifts__ of machine learning models. When modelling climate phenomena and many other real-world problems, the data distribution seen during training might undergo shifts that lead to out-of-sample predictions.
 
 
