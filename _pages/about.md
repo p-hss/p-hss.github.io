@@ -14,9 +14,9 @@ I'm Philipp, a postdoctoral researcher at the Technical University Munich and th
 
 I am particularly excited about the following research topics:
 
-- __Generative machine learning__ for bias correction and downscaling of Earth system simulations. I am interested in how generative machine learning methods for classical image-processing tasks such as inpainting, super-resolution and image-to-image translation can be extended and applied to similar problems in Earth system science.
+- __Generative machine learning__ for improving Earth system simulations. I am interested in how generative machine learning methods for image and video synthesis tasks can be extended to improve Earth system simulations, e.g., through correcting systematic errors, increasing the resolution or learning fast emulators of computationally expensive processes.
 
-- __Predicting extreme events__, such as rainfall extremes, accurately in the context of climate modelling and weather forecasting. The training data should be utilized effectively to make ML models learn to predict rare extreme events. This includes developing suitable loss functions, data transformations, and sampling strategies.
+- __Predicting extreme events__, such as rainfall extremes, accurately in the context of climate modelling and weather forecasting. The training data needs to be utilized effectively to make ML models learn to predict rare extreme events. This includes developing suitable loss functions, data transformations, and sampling strategies.
 
 - __Hybrid models__ that combine differential equations (i.e., knowledge-based models) with machine learning algorithms (data-driven models). To effectively combine these two approaches, *online learning* methods need to be developed that allow training the ML algorithm while interacting with the rest of the model, e.g., by making the entire hybrid model accessible (differentiable) for gradient-based optimization. 
 
