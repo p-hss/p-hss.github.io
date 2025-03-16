@@ -7,7 +7,7 @@ author_profile: true
 
 - __Hess, P.__, Aich, M., Pan, B., & Boers, N. (2025). *Fast, Scale-Adaptive, and Uncertainty-Aware Downscaling of Earth System Model Fields with Generative Foundation Models.* Nature Machine Intelligence. [[link](https://www.nature.com/articles/s42256-025-00980-5#article-info)]
 
-- Chen, M., Qian, Z., Boers, N., Creutzig, F., Camps-Valls, G., Hubacek, K., ... & Lü, G. (2024). *Collaboration between artificial intelligence and Earth science communities for mutual benefit.* Nature Geoscience, 17(10), 949-952.
+- Chen, M., Qian, Z., Boers, N., Creutzig, F., Camps-Valls, G., Hubacek, K., ... & Lü, G. (2024). *Collaboration between artificial intelligence and Earth science communities for mutual benefit.* Nature Geoscience, 17(10), 949-952. [[link](https://www.nature.com/articles/s41561-024-01550-x)]
 
 - Aich, M., __Hess, P.__, Pan, B., Bathiany, S., Huang, Y., & Boers, N. (2024). *Conditional diffusion models for downscaling & bias correction of Earth system model precipitation.* arXiv preprint [[link](https://arxiv.org/abs/2404.14416)].
 
