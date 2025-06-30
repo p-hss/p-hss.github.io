@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-- __Hess, P.__, Gelbrecht, M., Schötz, C., Aich, M., Huang, Y., Yang, S., & Boers, N. (2025). Generating time-consistent dynamics with discriminator-guided image diffusion models. arXiv preprint arXiv:2505.09089. [[link](https://arxiv.org/abs/2505.09089)]
+- __Hess, P.__, Gelbrecht, M., Schötz, C., Aich, M., Huang, Y., Yang, S., & Boers, N. (2025). *Generating time-consistent dynamics with discriminator-guided image diffusion models*. arXiv preprint arXiv:2505.09089. [[link](https://arxiv.org/abs/2505.09089)]
 
-- Aich, M., Bathiany, S., __Hess, P.__, Huang, Y., & Boers, N. (2025). Diffusion models for probabilistic precipitation generation from atmospheric variables. arXiv preprint arXiv:2504.00307. [[link](https://arxiv.org/abs/2504.00307)]
+- Aich, M., Bathiany, S., __Hess, P.__, Huang, Y., & Boers, N. (2025). *Diffusion models for probabilistic precipitation generation from atmospheric variables*. arXiv preprint arXiv:2504.00307. [[link](https://arxiv.org/abs/2504.00307)]
  
 
 - __Hess, P.__, Aich, M., Pan, B., & Boers, N. (2025). *Fast, Scale-Adaptive, and Uncertainty-Aware Downscaling of Earth System Model Fields with Generative Foundation Models.* Nature Machine Intelligence. [[link](https://www.nature.com/articles/s42256-025-00980-5)]
