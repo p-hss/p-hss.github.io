@@ -31,20 +31,16 @@ redirect_from:
   
 - Doctoral researcher, Earth System Modelling group, School of Engineering and Design Berlin, Technical University of Munich, Munich, Germany, 2021 - 2023   
   
-- Guest researcher, FutureLab: Artificial Intelligence in the Anthropocene, Potsdam Institute for Climate Impact Research, Potsdam, Germany, 2020 - now
+- Guest researcher, Artificial Intelligence group, Potsdam Institute for Climate Impact Research, Potsdam, Germany, 2020 - now
   
 - Doctoral researcher, Department of Mathematics and Computer Science, Free University of Berlin, Berlin, Germany, 2020 - 2021
  
-- Guest researcher, Department of Energy Sciences, Tokyo Institute of Technology, Tokyo, Japan, 2017 - 2018  
-  Supervisor: Prof. Dr F. Xiao
+- Guest, Computational Fluid Dynamics group, Department of Energy Sciences, Tokyo Institute of Technology, Tokyo, Japan, 2017 - 2018  
   
 
 **Teaching**
 
-- Technical University of Munich: *Machine learning in Earth system modelling*, winter term 2023/24
-- Technical University of Munich: *Machine learning in Earth system modelling*, summer term 2023
-- Technical University of Munich: *Machine learning in Earth system modelling*, winter term 2022/23
-- Technical University of Munich: *Machine learning in Earth system modelling*, summer term 2021
+- Technical University of Munich: *Machine learning in Earth system modelling*, summer term 2021 - summer term 2025
 - Supervision: two master's students and two bachelor's students
 
 
