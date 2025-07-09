@@ -40,7 +40,7 @@ redirect_from:
 
 **Teaching**
 
-- Technical University of Munich: *Machine learning in Earth system modelling*, summer term 2021 - summer term 2025
+- Technical University of Munich: seminar *Machine learning in Earth system modelling*, 2021 - 2025
 - Supervision: two master's students and two bachelor's students
 
 
