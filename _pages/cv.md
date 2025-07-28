@@ -46,4 +46,4 @@ redirect_from:
 
 **Experience**
 
-- Working student, Data Science at Greenstone Energy, Berlin, Germany, 2018 - 2019
+- Data Science at Greenstone Energy, Berlin, Germany, 2018 - 2019
