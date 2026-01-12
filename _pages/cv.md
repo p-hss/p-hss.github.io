@@ -7,6 +7,26 @@ redirect_from:
   - /resume
 ---
 
+**Research**
+
+- Postdoctoral researcher (DFG Walter Bejanmin Programme), Artificial Intelligence group, Potsdam Institute for Climate Impact Research, Potsdam, Germany, since 2026
+
+- Postdoctoral researcher, Earth System Modelling group, School of Engineering and Design Berlin, Technical University of Munich, Munich, Germany, since 2023
+
+- Guest researcher, Artificial Intelligence group, Potsdam Institute for Climate Impact Research, Potsdam, Germany, 2020 - 2025
+  
+- Doctoral researcher, Earth System Modelling group, School of Engineering and Design Berlin, Technical University of Munich, Munich, Germany, 2021 - 2023     
+  
+- Doctoral researcher, Department of Mathematics and Computer Science, Free University of Berlin, Berlin, Germany, 2020 - 2021
+ 
+- Guest, Computational Fluid Dynamics group, Department of Energy Sciences, Tokyo Institute of Technology, Tokyo, Japan, 2017 - 2018  
+
+
+**Additional Experience**
+
+- Data Science at Greenstone Energy, Berlin, Germany, 2018 - 2019
+
+
 **Education**
 
 - PhD (Dr. rer. nat.), School of Engineering and Design, Technical University of Munich, Munich, Germany, 2020 - 2023  
@@ -23,29 +43,9 @@ redirect_from:
 - B.Sc. Physics, Department of Physics and Earth Sciences, Leipzig University, Leipzig, Germany, 2012 - 2016  
   Thesis: *Monte Carlo simulation of the surface tension in the 2D Ising model*  
   Computational Quantum Field Theory group, supervisor: Prof. Dr W. Janke  
-  
-  
-**Research**
-
-- Postdoctoral researcher (DFG Walter Bejanmin Programme), Artificial Intelligence group, Potsdam Institute for Climate Impact Research, Potsdam, Germany, since 2026
-
-- Postdoctoral researcher, Earth System Modelling group, School of Engineering and Design Berlin, Technical University of Munich, Munich, Germany, since 2023
-
-- Guest researcher, Artificial Intelligence group, Potsdam Institute for Climate Impact Research, Potsdam, Germany, 2020 - 2025
-  
-- Doctoral researcher, Earth System Modelling group, School of Engineering and Design Berlin, Technical University of Munich, Munich, Germany, 2021 - 2023     
-  
-- Doctoral researcher, Department of Mathematics and Computer Science, Free University of Berlin, Berlin, Germany, 2020 - 2021
- 
-- Guest, Computational Fluid Dynamics group, Department of Energy Sciences, Tokyo Institute of Technology, Tokyo, Japan, 2017 - 2018  
-  
+    
 
 **Teaching**
 
 - Technical University of Munich: seminar *Machine learning in Earth system modelling*, since 2021
 - Supervision: four master's students and three bachelor's students
-
-
-**Additional Experience**
-
-- Data Science at Greenstone Energy, Berlin, Germany, 2018 - 2019
