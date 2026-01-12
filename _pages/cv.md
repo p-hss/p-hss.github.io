@@ -29,7 +29,7 @@ redirect_from:
 
 - Postdoctoral researcher (DFG Walter Bejanmin Programme), Artificial Intelligence group, Potsdam Institute for Climate Impact Research, Potsdam, Germany, since 2026
 
-- Postdoctoral researcher, Earth System Modelling group, School of Engineering and Design Berlin, Technical University of Munich, Munich, Germany, 2023 - now
+- Postdoctoral researcher, Earth System Modelling group, School of Engineering and Design Berlin, Technical University of Munich, Munich, Germany, since 2023
 
 - Guest researcher, Artificial Intelligence group, Potsdam Institute for Climate Impact Research, Potsdam, Germany, 2020 - 2025
   
