@@ -22,7 +22,7 @@ redirect_from:
 - Guest, Computational Fluid Dynamics group, Department of Energy Sciences, Tokyo Institute of Technology, Tokyo, Japan, 2017 - 2018  
 
 
-**Additional Experience**
+**Further Experience**
 
 - Data Science at Greenstone Energy, Berlin, Germany, 2018 - 2019
 
@@ -49,3 +49,4 @@ redirect_from:
 
 - Technical University of Munich: seminar *Machine learning in Earth system modelling*, since 2021
 - Supervision: four master's students and three bachelor's students
+- Tutor at the ELLIS Summer School: *AI for Earth and Climate Sciences*, MPI for Biogeochemistry, Jena, 2025
