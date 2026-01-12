@@ -9,7 +9,7 @@ redirect_from:
 
 **Education**
 
-- PhD (Dr. rer. nat.), School of Engineering and Design, Technical University of Munich, Munich, Germany, 2021 - 2023  
+- PhD (Dr. rer. nat.), School of Engineering and Design, Technical University of Munich, Munich, Germany, 2020 - 2023  
   Thesis: *Prediction of extreme precipitation events: combining process-based with machine learning models*  
   Earth System Modelling group, supervisor: Prof. Dr N. Boers 
 
@@ -27,11 +27,13 @@ redirect_from:
   
 **Research**
 
-- Postdoctoral researcher, Earth System Modelling group, School of Engineering and Design Berlin, Technical University of Munich, Munich, Germany, 2023 - now   
+- Postdoctoral researcher (DFG Walter Bejanmin Programme), Artificial Intelligence group, Potsdam Institute for Climate Impact Research, Potsdam, Germany, since 2026
+
+- Postdoctoral researcher, Earth System Modelling group, School of Engineering and Design Berlin, Technical University of Munich, Munich, Germany, 2023 - now
+
+- Guest researcher, Artificial Intelligence group, Potsdam Institute for Climate Impact Research, Potsdam, Germany, 2020 - 2025
   
-- Doctoral researcher, Earth System Modelling group, School of Engineering and Design Berlin, Technical University of Munich, Munich, Germany, 2021 - 2023   
-  
-- Guest researcher, Artificial Intelligence group, Potsdam Institute for Climate Impact Research, Potsdam, Germany, 2020 - now
+- Doctoral researcher, Earth System Modelling group, School of Engineering and Design Berlin, Technical University of Munich, Munich, Germany, 2021 - 2023     
   
 - Doctoral researcher, Department of Mathematics and Computer Science, Free University of Berlin, Berlin, Germany, 2020 - 2021
  
@@ -40,10 +42,10 @@ redirect_from:
 
 **Teaching**
 
-- Technical University of Munich: seminar *Machine learning in Earth system modelling*, 2021 - 2025
-- Supervision: two master's students and two bachelor's students
+- Technical University of Munich: seminar *Machine learning in Earth system modelling*, since 2021
+- Supervision: four master's students and three bachelor's students
 
 
-**Experience**
+**Additional Experience**
 
 - Data Science at Greenstone Energy, Berlin, Germany, 2018 - 2019
